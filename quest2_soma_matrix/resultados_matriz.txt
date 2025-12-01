@@ -2,3 +2,12 @@ PC: Notebook Local | Matriz: 1000x1000 | Threads: 10 | T.Seq: 2.2025s | T.Par: 2
 PC: Notebook Local | Matriz: 1000x1000 | Threads: 100 | T.Seq: 2.2594s | T.Par: 2.2295s | Sp: 1.01
 PC: Notebook Local | Matriz: 1000x1000 | Threads: 1000 | T.Seq: 2.2553s | T.Par: 2.2595s | Sp: 1.00
 PC: Notebook Local | Matriz: 1000x1000 | Threads: 100000 | T.Seq: 2.1640s | T.Par: 5.9369s | Sp: 0.36
+PC: PC Lab | Matriz: 1000x1000 | Threads: 10 | T.Seq: 5,1136s | T.Par: 0,9354s | Sp: 5,47
+PC: PC Lab | Matriz: 1000x1000 | Threads: 100 | T.Seq: 4,9165s | T.Par: 0,9288s | Sp: 5,29
+PC: PC Lab | Matriz: 1000x1000 | Threads: 1000 | T.Seq: 5,0273s | T.Par: 1,1355s | Sp: 4,43
+PC: PC Lab | Matriz: 1000x1000 | Threads: 10000 | T.Seq: 4,8693s | T.Par: 5,2581s | Sp: 0,93
+PC: PC Lab | Matriz: 1000x1000 | Threads: 2 | T.Seq: 4,7865s | T.Par: 2,4226s | Sp: 1,98
+PC: PC Lab | Matriz: 1000x1000 | Threads: 3 | T.Seq: 4,8697s | T.Par: 1,7231s | Sp: 2,83
+PC: PC Lab | Matriz: 1000x1000 | Threads: 4 | T.Seq: 4,8824s | T.Par: 1,2716s | Sp: 3,84
+PC: PC Lab | Matriz: 1000x1000 | Threads: 5 | T.Seq: 4,9485s | T.Par: 1,0711s | Sp: 4,62
+PC: PC Lab | Matriz: 1000x1000 | Threads: 6 | T.Seq: 4,9656s | T.Par: 0,9263s | Sp: 5,36
