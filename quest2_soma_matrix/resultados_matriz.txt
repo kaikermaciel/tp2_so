@@ -1,0 +1,4 @@
+PC: Notebook Local | Matriz: 1000x1000 | Threads: 10 | T.Seq: 2.2025s | T.Par: 2.3487s | Sp: 0.94
+PC: Notebook Local | Matriz: 1000x1000 | Threads: 100 | T.Seq: 2.2594s | T.Par: 2.2295s | Sp: 1.01
+PC: Notebook Local | Matriz: 1000x1000 | Threads: 1000 | T.Seq: 2.2553s | T.Par: 2.2595s | Sp: 1.00
+PC: Notebook Local | Matriz: 1000x1000 | Threads: 100000 | T.Seq: 2.1640s | T.Par: 5.9369s | Sp: 0.36
