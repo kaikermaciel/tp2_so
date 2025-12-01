@@ -2,3 +2,17 @@ PC: Notebook Local | Tamanho: 50000000 | Threads: 10 | T.Seq: 0.0997s | T.Par: 0
 PC: Notebook Local | Tamanho: 50000000 | Threads: 100 | T.Seq: 0.1124s | T.Par: 0.3264s | Sp: 0.34
 PC: Notebook Local | Tamanho: 50000000 | Threads: 1000 | T.Seq: 0.0950s | T.Par: 0.1219s | Sp: 0.78
 PC: Notebook Local | Tamanho: 50000000 | Threads: 100000 | T.Seq: 0.1002s | T.Par: 7.9792s | Sp: 0.01
+PC: PC Lab | Tamanho: 50000000 | Threads: 10 | T.Seq: 0,1178s | T.Par: 0,0776s | Sp: 1,52
+PC: PC Lab | Tamanho: 50000000 | Threads: 100 | T.Seq: 0,0908s | T.Par: 0,0880s | Sp: 1,03
+PC: PC Lab | Tamanho: 50000000 | Threads: 1000 | T.Seq: 0,0898s | T.Par: 0,0809s | Sp: 1,11
+PC: PC Lab | Tamanho: 50000000 | Threads: 100000 | T.Seq: 0,0928s | T.Par: 3,6095s | Sp: 0,03
+PC: PC Lab | Tamanho: 50000000 | Threads: 3 | T.Seq: 0,0908s | T.Par: 0,0662s | Sp: 1,37
+PC: PC Lab | Tamanho: 50000000 | Threads: 44 | T.Seq: 0,0686s | T.Par: 0,0730s | Sp: 0,94
+PC: PC Lab | Tamanho: 50000000 | Threads: 2 | T.Seq: 0,0774s | T.Par: 0,0659s | Sp: 1,17
+PC: PC Lab | Tamanho: 50000000 | Threads: 3 | T.Seq: 0,0707s | T.Par: 0,0622s | Sp: 1,14
+PC: PC Lab | Tamanho: 50000000 | Threads: 4 | T.Seq: 0,0758s | T.Par: 0,0657s | Sp: 1,15
+PC: PC Lab | Tamanho: 50000000 | Threads: 5 | T.Seq: 0,0775s | T.Par: 0,0661s | Sp: 1,17
+PC: PC Lab | Tamanho: 50000000 | Threads: 6 | T.Seq: 0,0723s | T.Par: 0,0689s | Sp: 1,05
+PC: PC Lab | Tamanho: 50000000 | Threads: 7 | T.Seq: 0,0710s | T.Par: 0,0699s | Sp: 1,02
+PC: PC Lab | Tamanho: 50000000 | Threads: 8 | T.Seq: 0,0760s | T.Par: 0,0667s | Sp: 1,14
+PC: PC Lab | Tamanho: 50000000 | Threads: 9 | T.Seq: 0,0734s | T.Par: 0,0687s | Sp: 1,07
